@@ -24,5 +24,5 @@ class BinToDec {
 }
 
 fun main() {
-    print(BinToDec.convertBinToDec(""+110011))
+    print(BinToDec.convertBinToDec(""+10001000))
 }
